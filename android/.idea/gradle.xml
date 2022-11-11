@@ -8,14 +8,14 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/cloud_firestore-3.1.18/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/firebase_auth-3.3.20/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/firebase_core-1.18.0/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/google_sign_in_android-5.2.8/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_android-2.0.15/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$flutter$/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.1.18/android" />
-            <option value="$flutter$/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.20/android" />
-            <option value="$flutter$/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.18.0/android" />
-            <option value="$flutter$/.pub-cache/hosted/pub.dartlang.org/google_sign_in_android-5.2.8/android" />
-            <option value="$flutter$/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.15/android" />
-            <option value="$flutter$/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android" />
           </set>
         </option>
       </GradleProjectSettings>
