@@ -6,7 +6,9 @@ class LoginViewWeb extends HookConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     return SafeArea(
-      child: Scaffold(),
+      child: Scaffold(
+        appBar: AppBar(),
+      ),
     );
   }
 }
